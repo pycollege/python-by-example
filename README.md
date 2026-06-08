@@ -25,23 +25,30 @@ Unless stated otherwise, examples assume Python 3.10 or later. Try to upgrade to
 * [Tuples](lessons/tuples.md)
 * [Dictionaries](lessons/dictionaries.md)
 * [Sets](lessons/sets.md)
+* [Sorting](lessons/sorting.md)
+* [Collections](lessons/collections.md)
 
 ### Functions
 * [Functions](lessons/functions.md)
 * [Multiple Return Values](lessons/multiple-return-values.md)
 * [Variadic Functions](lessons/variadic-functions.md)
 * [Lambdas](lessons/lambdas.md)
+* [Map and Filter](lessons/map-and-filter.md)
 * [Closures](lessons/closures.md)
+* [Scope](lessons/scope.md)
 * [Recursion](lessons/recursion.md)
+* [Decorators](lessons/decorators.md)
 
 ### Iteration and Comprehensions
 * [Range and Enumerate](lessons/range-and-enumerate.md)
 * [Comprehensions](lessons/comprehensions.md)
+* [Generators](lessons/generators.md)
 
 ### Object-Oriented
 * [Classes](lessons/classes.md)
 * [Methods](lessons/methods.md)
 * [Inheritance](lessons/inheritance.md)
+* [Properties](lessons/properties.md)
 * [Dataclasses](lessons/dataclasses.md)
 * [Enums](lessons/enums.md)
 * [Type Hints](lessons/type-hints.md)
@@ -49,6 +56,7 @@ Unless stated otherwise, examples assume Python 3.10 or later. Try to upgrade to
 ### Error Handling
 * [Exceptions](lessons/exceptions.md)
 * [Custom Exceptions](lessons/custom-exceptions.md)
+* [Context Managers](lessons/context-managers.md)
 
 ### Modules and Packages
 * [Modules](lessons/modules.md)
@@ -67,6 +75,7 @@ Unless stated otherwise, examples assume Python 3.10 or later. Try to upgrade to
 ### Data and Serialization
 * [JSON](lessons/json.md)
 * [JSON Files](lessons/json-files.md)
+* [CSV Files](lessons/csv-files.md)
 
 ### Date and Time
 * [Time](lessons/time.md)
@@ -82,6 +91,7 @@ Unless stated otherwise, examples assume Python 3.10 or later. Try to upgrade to
 ### Command Line
 * [Command-Line Arguments](lessons/command-line-arguments.md)
 * [Argparse](lessons/argparse.md)
+* [Subprocess](lessons/subprocess.md)
 * [Environment Variables](lessons/environment-variables.md)
 
 ### Testing and Tooling

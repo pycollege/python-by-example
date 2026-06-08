@@ -57,4 +57,4 @@ $ python source/closures.py
 
 Source: [closures.py](../source/closures.py)
 
-Next: [Recursion](recursion.md)
+Next: [Scope](scope.md)

@@ -46,4 +46,4 @@ $ python source/lambdas.py
 
 Source: [lambdas.py](../source/lambdas.py)
 
-Next: [Closures](closures.md)
+Next: [Map and Filter](map-and-filter.md)

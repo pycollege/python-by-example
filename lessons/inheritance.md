@@ -51,4 +51,4 @@ Whiskers says meow!
 
 Source: [inheritance.py](../source/inheritance.py)
 
-Next: [Dataclasses](dataclasses.md)
+Next: [Properties](properties.md)

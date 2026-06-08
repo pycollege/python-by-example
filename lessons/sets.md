@@ -51,4 +51,4 @@ False
 
 Source: [sets.py](../source/sets.py)
 
-Next: [Functions](functions.md)
+Next: [Sorting](sorting.md)

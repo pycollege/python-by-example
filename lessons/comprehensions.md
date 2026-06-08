@@ -49,4 +49,4 @@ $ python source/comprehensions.py
 
 Source: [comprehensions.py](../source/comprehensions.py)
 
-Next: [Classes](classes.md)
+Next: [Generators](generators.md)
